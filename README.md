@@ -49,3 +49,19 @@ And now comes the **Lists**
 >```
 - [x] this is a completed item
 - [ ] this work needs to be done :+1:
+
+> First Header | Second Header
+>------------ | -------------
+>name | osama :sparkles:
+>age  | 20 :rocket:
+
+><span style="background-color:green;color:white;padding:2px;">some *This is Blue italic.* text</span>
+
+><span style="background-color:dodgerblue;color:white;padding:2px;">some *This is Blue italic.* text</span>
+
+><span style="background-color:magenta;color:white;padding:2px;">some *This is Blue italic.* text</span>
+
+><span style ="background-color:red;color:white;padding:2pxl">Disclaimer</span>
+
+<i style="background:black;color:white;padding:4px;border-left:5px solid green"> i am not responsible for any damage caused </i>
+
