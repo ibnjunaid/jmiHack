@@ -7,7 +7,7 @@
 ```html                                               
  Yeah !! This is  hack - a clever trick .              
  You yourself 'll responsible for any damage caused. These codes are provided as is and without any warranty.  
- I released this code as a POC (proof of Concept) to my buddies and should be used to cause any harm.
+ I released this code as a POC (proof of Concept) to my buddies and not should be used to cause any harm.
 ```  
 --------------------                       
  >_The codes in this repo exploits a configuration mistake in **[Jmicoe.in](https://jmicoe.in)**_. 
