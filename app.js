@@ -2,8 +2,16 @@
 
 //62699 is the lower limit which i found , i may be wrong
 //initial is the formSerial Number
-//63100 is just  random
-//You can also change the trcoursecode if you got any.
+//63100 is just random
+//trcoursedode may mean table-row-course-code. A table info in  mysql db
+//trcoursecode=TR00003168 is for school which i found . There will be differnet table row codes one for youself  
+//You can also change the trcoursecode if you got any and please share.
+
+//If a pdf document is of 908bytes it means its an empty document with no result in it.
+
+//-------------
+//please increment initial and test number in while loop by 100 every next time you execute the code.
+
 
 
 var initial = 62698;
@@ -15,13 +23,13 @@ function changer(){
 }
 function exec(){
     alert('This will this Will open 100 tabs at once in your browser !!');
-    input = prompt("Do You want to Continue type (Y/N)");
-    if (input.toUpperCase() == 'N'){
+    input = prompt("Do You want to Continue type (Y/N)")[0];
+    if (input.toUpperCase()  === 'N'){
         return;
     }
     else
     {
-        while(initial < 63100){
+        while(initial < 63798){
          changer();
          console.log(initial);
      }
@@ -29,4 +37,3 @@ function exec(){
      }
 }
 $('a').on('click',exec);
-
