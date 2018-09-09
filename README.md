@@ -1,12 +1,15 @@
-># *JmischoolHack*
+># :warning: *JmischoolHack* :bowtie:
 
-# Discalimer 
-```html
- Yeah !! This is  hack - a clever trick .
- You yourself 'll responsible for any damage caused.
+
+# :construction: Disclaimer :warning: 
+
+
+```html                                               
+ Yeah !! This is  hack - a clever trick .              
+ You yourself 'll responsible for any damage caused.    
  I released this code as a POC (proof of Concept) to my buddies and doesnt mean to harm.
-``` 
-
+```  
+|
 
 >_The codes in this repo exploits a configuration mistake in **[Jmicoe.in](https://jmicoe.in)**_      
 >_which allows us to download result of full class without any login to student Dashboard_
@@ -51,14 +54,15 @@ _Hell No! i was just joking._
    * extract the repo into any folder 
    * Open index.html using google chrome 
 3. Executing the exploit
-    * Click on __fetch__ 
-    * I'll will give you a warning click okay
+    * Click on __fetch__ :rocket:
+    * I'll will give you a warning click okay :fire:
     * then you'll be asked if you really want this Type __Y__ to execute and __N__ to exit the program 
       
   
 
-># Bang !! I heard that weapon dropring.
+># Bang !! I heard that weapon dropring. :explosion:
 
+:tada: :tada: :tada: :tada: :tada: :tada: :tada: :tada:
 
 
 
