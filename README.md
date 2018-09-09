@@ -2,7 +2,7 @@
 
 # :warning: Disclaimer :warning: 
 
-                    :bowtie: :bowtie:
+:bowtie: :bowtie:
 
 ```html                                               
  Yeah !! This is  hack - a clever trick .              
@@ -62,7 +62,8 @@ _Hell No! i was just joking._ :sunglasses:
     * then you'll be asked if you really want this type __Y__ to execute and __N__ to exit the program 
       
 :boom: :boom: :boom:
-># Bang !! I heard that  droping weapon .. :explosion:
+># Bang !! I heard that  droping weapon. 
+:explosion: :explosion:
 
 >###### lets party 
 
