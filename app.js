@@ -1,4 +1,5 @@
 //Licensed under GNU GPL V3.
+//
 
 //62699 is the lower limit which i found , i may be wrong
 //initial is the formSerial Number
@@ -16,6 +17,7 @@
 
 //stage2 62798 // stage3 62898 //stage4 62998 //stage5 63098 //stage6 63198
 
+	initial = 62670;
 
     function changer(){
     initial += 1;
